@@ -31,7 +31,7 @@
                         projects alongside my formal education. My goal is to develop
                         innovative solutions in the multimedia and automation industries through my combined software and hardware experience.
                         I have advanced knowledge in Java and C, experience designing custom electronic circuits/robotics,
-                        as well as building this website using responsive web technologies from scratch.
+                        as well as building this website using responsive web technologies.
                         Additionally, I am a hobbyist filmmaker and photographer, and have been sharing my stories on
                         YouTube since 2012. I created this site to share my interests, as they evolve,
                         and connect with like minded individuals.</p>
