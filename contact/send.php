@@ -24,7 +24,7 @@
             $headers = 'From: ' . $name . ' <' . $email . '>' . "\r\n" .
                 'Reply-To: ' . $email . "\r\n" .
                 'Subject: ' . $subject . "\r\n";
-            $to = 'devon.proj@gmail.com';
+            $to = 'devon@devoncrawford.io';
 
             if($email == '' || $message == '') {
                 include('invalid-input.html');
