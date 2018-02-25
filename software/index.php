@@ -35,7 +35,7 @@
                                 <h3 class="regTitle">TIMELAPSE AUTO-RAMP | JAVA</h3>
                                 <p class="subP pad0 italic">a photoshop plugin</p>
                                 <?php
-                                    $content = "My algorithm identifies exposure changes over a sequence of images, and evenly apply offset
+                                    $content = "Identifies exposure changes over a sequence of images, and evenly applies offset
                                     calculations to combat exposure changes. Creating a perfectly exposed timelapse video suitable for
                                     difficult lighting conditions such as sunrise";
 
@@ -57,7 +57,7 @@
                                 <h3 class="regTitle">A* PATHFINDING VISUAL.. | JAVA</h3>
                                 <?php
                                     $content = "Developed dynamic map creation system from scratch, created visualization
-                                    (Swing GUI) to display live data, animation, speed control and timed algorithm analysis.";
+                                    (Swing GUI) to display live data, animation, speed control and timed algorithm analysis";
 
                                     $content = substr($content, 0, 302) . " ...";
 
@@ -99,7 +99,7 @@
                     interface applications. Recently I have been extending the YouTube API to implement
                      missing features and autonomous processes, as well as Photoshop Plugins and an A*
                      pathfinding visualization. I will continue using Java for agile development at a
-                     high level. Learn more about my Java project development here.</p>
+                     high level. Learn more about my Java project development <a href="/software#top">here.</a></p>
             </div>
 
             <div class="container">
